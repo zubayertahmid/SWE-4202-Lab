@@ -1,0 +1,12 @@
+D:\SWE Lab Tasks\200042136_Lab02\200042136_Lab02\CRS Dependencies\CRS Dependencies\bin\Debug\net6.0\CRS Dependencies.deps.json
+D:\SWE Lab Tasks\200042136_Lab02\200042136_Lab02\CRS Dependencies\CRS Dependencies\bin\Debug\net6.0\CRS Dependencies.dll
+D:\SWE Lab Tasks\200042136_Lab02\200042136_Lab02\CRS Dependencies\CRS Dependencies\bin\Debug\net6.0\ref\CRS Dependencies.dll
+D:\SWE Lab Tasks\200042136_Lab02\200042136_Lab02\CRS Dependencies\CRS Dependencies\bin\Debug\net6.0\CRS Dependencies.pdb
+D:\SWE Lab Tasks\200042136_Lab02\200042136_Lab02\CRS Dependencies\CRS Dependencies\obj\Debug\net6.0\CRS Dependencies.csproj.AssemblyReference.cache
+D:\SWE Lab Tasks\200042136_Lab02\200042136_Lab02\CRS Dependencies\CRS Dependencies\obj\Debug\net6.0\CRS Dependencies.GeneratedMSBuildEditorConfig.editorconfig
+D:\SWE Lab Tasks\200042136_Lab02\200042136_Lab02\CRS Dependencies\CRS Dependencies\obj\Debug\net6.0\CRS Dependencies.AssemblyInfoInputs.cache
+D:\SWE Lab Tasks\200042136_Lab02\200042136_Lab02\CRS Dependencies\CRS Dependencies\obj\Debug\net6.0\CRS Dependencies.AssemblyInfo.cs
+D:\SWE Lab Tasks\200042136_Lab02\200042136_Lab02\CRS Dependencies\CRS Dependencies\obj\Debug\net6.0\CRS Dependencies.csproj.CoreCompileInputs.cache
+D:\SWE Lab Tasks\200042136_Lab02\200042136_Lab02\CRS Dependencies\CRS Dependencies\obj\Debug\net6.0\CRS Dependencies.dll
+D:\SWE Lab Tasks\200042136_Lab02\200042136_Lab02\CRS Dependencies\CRS Dependencies\obj\Debug\net6.0\ref\CRS Dependencies.dll
+D:\SWE Lab Tasks\200042136_Lab02\200042136_Lab02\CRS Dependencies\CRS Dependencies\obj\Debug\net6.0\CRS Dependencies.pdb
