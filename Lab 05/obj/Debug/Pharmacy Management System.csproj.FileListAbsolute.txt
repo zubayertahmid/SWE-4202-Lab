@@ -1,0 +1,10 @@
+C:\Users\CSE\Desktop\Zubayer SWE\Lab 03\Pharmacy Management System\obj\Debug\Pharmacy Management System.csproj.SuggestedBindingRedirects.cache
+C:\Users\CSE\Desktop\Zubayer SWE\Lab 03\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Form1.resources
+C:\Users\CSE\Desktop\Zubayer SWE\Lab 03\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Properties.Resources.resources
+C:\Users\CSE\Desktop\Zubayer SWE\Lab 03\Pharmacy Management System\obj\Debug\Pharmacy Management System.csproj.GenerateResource.cache
+C:\Users\CSE\Desktop\Zubayer SWE\Lab 03\Pharmacy Management System\obj\Debug\Pharmacy Management System.csproj.CoreCompileInputs.cache
+C:\Users\CSE\Desktop\Zubayer SWE\Lab 03\Pharmacy Management System\bin\Debug\Pharmacy Management System.exe.config
+C:\Users\CSE\Desktop\Zubayer SWE\Lab 03\Pharmacy Management System\bin\Debug\Pharmacy Management System.exe
+C:\Users\CSE\Desktop\Zubayer SWE\Lab 03\Pharmacy Management System\bin\Debug\Pharmacy Management System.pdb
+C:\Users\CSE\Desktop\Zubayer SWE\Lab 03\Pharmacy Management System\obj\Debug\Pharmacy Management System.exe
+C:\Users\CSE\Desktop\Zubayer SWE\Lab 03\Pharmacy Management System\obj\Debug\Pharmacy Management System.pdb
