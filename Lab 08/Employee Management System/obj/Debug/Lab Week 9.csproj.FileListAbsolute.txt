@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\Lab Week 9\Lab Week 9\bin\Debug\Lab Week 9.exe.config
+C:\Users\User\Desktop\Lab Week 9\Lab Week 9\bin\Debug\Lab Week 9.exe
+C:\Users\User\Desktop\Lab Week 9\Lab Week 9\bin\Debug\Lab Week 9.pdb
+C:\Users\User\Desktop\Lab Week 9\Lab Week 9\obj\Debug\Lab Week 9.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Lab Week 9\Lab Week 9\obj\Debug\Lab Week 9.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Lab Week 9\Lab Week 9\obj\Debug\Lab_Week_9.Form1.resources
+C:\Users\User\Desktop\Lab Week 9\Lab Week 9\obj\Debug\Lab_Week_9.Properties.Resources.resources
+C:\Users\User\Desktop\Lab Week 9\Lab Week 9\obj\Debug\Lab Week 9.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Lab Week 9\Lab Week 9\obj\Debug\Lab Week 9.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Lab Week 9\Lab Week 9\obj\Debug\Lab Week 9.exe
+C:\Users\User\Desktop\Lab Week 9\Lab Week 9\obj\Debug\Lab Week 9.pdb
