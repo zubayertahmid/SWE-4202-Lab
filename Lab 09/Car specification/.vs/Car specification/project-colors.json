@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "36737ec0-c39f-4a81-aebf-980bfbb22eef": {
+      "ProjectGuid": "36737ec0-c39f-4a81-aebf-980bfbb22eef",
+      "DisplayName": "Car specification",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
