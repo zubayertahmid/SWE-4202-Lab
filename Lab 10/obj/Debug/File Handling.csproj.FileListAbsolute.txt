@@ -1,0 +1,22 @@
+C:\Users\CSE\Desktop\Zubayer SWE\Lab 03\Labs\Lab 10\File Handling\bin\Debug\File Handling.exe.config
+C:\Users\CSE\Desktop\Zubayer SWE\Lab 03\Labs\Lab 10\File Handling\bin\Debug\File Handling.exe
+C:\Users\CSE\Desktop\Zubayer SWE\Lab 03\Labs\Lab 10\File Handling\bin\Debug\File Handling.pdb
+C:\Users\CSE\Desktop\Zubayer SWE\Lab 03\Labs\Lab 10\File Handling\obj\Debug\File Handling.csproj.AssemblyReference.cache
+C:\Users\CSE\Desktop\Zubayer SWE\Lab 03\Labs\Lab 10\File Handling\obj\Debug\File Handling.csproj.SuggestedBindingRedirects.cache
+C:\Users\CSE\Desktop\Zubayer SWE\Lab 03\Labs\Lab 10\File Handling\obj\Debug\File_Handling.Form1.resources
+C:\Users\CSE\Desktop\Zubayer SWE\Lab 03\Labs\Lab 10\File Handling\obj\Debug\File_Handling.Properties.Resources.resources
+C:\Users\CSE\Desktop\Zubayer SWE\Lab 03\Labs\Lab 10\File Handling\obj\Debug\File Handling.csproj.GenerateResource.cache
+C:\Users\CSE\Desktop\Zubayer SWE\Lab 03\Labs\Lab 10\File Handling\obj\Debug\File Handling.csproj.CoreCompileInputs.cache
+C:\Users\CSE\Desktop\Zubayer SWE\Lab 03\Labs\Lab 10\File Handling\obj\Debug\File Handling.exe
+C:\Users\CSE\Desktop\Zubayer SWE\Lab 03\Labs\Lab 10\File Handling\obj\Debug\File Handling.pdb
+F:\SWE Lab Practice\Lab 10\bin\Debug\File Handling.exe.config
+F:\SWE Lab Practice\Lab 10\bin\Debug\File Handling.exe
+F:\SWE Lab Practice\Lab 10\bin\Debug\File Handling.pdb
+F:\SWE Lab Practice\Lab 10\obj\Debug\File Handling.csproj.AssemblyReference.cache
+F:\SWE Lab Practice\Lab 10\obj\Debug\File Handling.csproj.SuggestedBindingRedirects.cache
+F:\SWE Lab Practice\Lab 10\obj\Debug\File_Handling.Form1.resources
+F:\SWE Lab Practice\Lab 10\obj\Debug\File_Handling.Properties.Resources.resources
+F:\SWE Lab Practice\Lab 10\obj\Debug\File Handling.csproj.GenerateResource.cache
+F:\SWE Lab Practice\Lab 10\obj\Debug\File Handling.csproj.CoreCompileInputs.cache
+F:\SWE Lab Practice\Lab 10\obj\Debug\File Handling.exe
+F:\SWE Lab Practice\Lab 10\obj\Debug\File Handling.pdb
