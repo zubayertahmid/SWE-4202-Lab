@@ -1,0 +1,11 @@
+F:\SWE Lab Practice\Lab 09\Lab Final_200042136\Lab Final_200042136\bin\Debug\Lab Final_200042136.exe.config
+F:\SWE Lab Practice\Lab 09\Lab Final_200042136\Lab Final_200042136\bin\Debug\Lab Final_200042136.exe
+F:\SWE Lab Practice\Lab 09\Lab Final_200042136\Lab Final_200042136\bin\Debug\Lab Final_200042136.pdb
+F:\SWE Lab Practice\Lab 09\Lab Final_200042136\Lab Final_200042136\obj\Debug\Lab Final_200042136.csproj.AssemblyReference.cache
+F:\SWE Lab Practice\Lab 09\Lab Final_200042136\Lab Final_200042136\obj\Debug\Lab Final_200042136.csproj.SuggestedBindingRedirects.cache
+F:\SWE Lab Practice\Lab 09\Lab Final_200042136\Lab Final_200042136\obj\Debug\Lab_Final_200042136.Form1.resources
+F:\SWE Lab Practice\Lab 09\Lab Final_200042136\Lab Final_200042136\obj\Debug\Lab_Final_200042136.Properties.Resources.resources
+F:\SWE Lab Practice\Lab 09\Lab Final_200042136\Lab Final_200042136\obj\Debug\Lab Final_200042136.csproj.GenerateResource.cache
+F:\SWE Lab Practice\Lab 09\Lab Final_200042136\Lab Final_200042136\obj\Debug\Lab Final_200042136.csproj.CoreCompileInputs.cache
+F:\SWE Lab Practice\Lab 09\Lab Final_200042136\Lab Final_200042136\obj\Debug\Lab Final_200042136.exe
+F:\SWE Lab Practice\Lab 09\Lab Final_200042136\Lab Final_200042136\obj\Debug\Lab Final_200042136.pdb
